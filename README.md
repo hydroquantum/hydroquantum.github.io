@@ -1,6 +1,8 @@
 # HydroQuantum.github.io
 
-This repository now contains a dependency-free website for the quantum computing branch of Clemson University’s Hydrosystem and Hydroinformatics Research (HHR) Lab. It is structured around two core pages plus individual paper pages:
+This site is live on [https://hydroquantum.githug.io](https://hydroquantum.githug.io)
+
+This repository now contains a website for the quantum computing branch of Clemson University’s Hydrosystem and Hydroinformatics Research (HHR) Lab. It is structured around two core pages:
 
 - `index.html`: landing page and site overview
 - `papers/`: individual paper pages
