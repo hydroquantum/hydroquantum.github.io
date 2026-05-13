@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QuantumIrrigation Paper | HydroQuantum</title>
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+    <script src="../assets/js/site.js" defer></script>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="../index.html">
+          <span class="brand-mark">HQ</span>
+          <span class="brand-copy">
+            <strong>HydroQuantum</strong>
+            <small>Clemson University</small>
+          </span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+          Menu
+        </button>
+        <nav class="site-nav" id="site-nav" aria-label="Primary">
+          <a href="../index.html">Home</a>
+          <a href="../about/index.html">About</a>
+        </nav>
+      </header>
+
+      <main>
+        <article class="detail-layout detail-layout-plain">
+          <div class="detail-main">
+            <p class="eyebrow">Paper</p>
+            <h1>QuantumIrrigation: a new quantum computing Python package for irrigation demand assessment</h1>
+            <p class="detail-meta">Authors: Adarsha Neupane and Vidya Samadi</p>
+            <p class="detail-meta">Affiliation: Clemson University</p>
+            <p><a class="text-link" href="../index.html">Back to publications</a></p>
+
+            <section class="detail-section">
+              <h2>Abstract</h2>
+              <p>
+                Accurate estimation of irrigation demand is a cornerstone of precision agriculture, 
+                typically achieved through modeling crop reference evapotranspiration (ETo) and soil 
+                moisture dynamics. In this study, we developed QuantumIrrigation—a novel Python package 
+                that integrates quantum computing with deep learning to predict ETo and soil moisture 
+                (expressed as soil water tension). The framework was tested using data from an experimental 
+                research farm in Camilla, Georgia. QuantumIrrigation’s performance was benchmarked 
+                against two state-of-the-art deep learning architectures widely used for time-series 
+                prediction: Long Short-Term Memory (LSTM) and the Patch Time-Series Transformer (PatchTST). 
+                The package incorporates two quantum models—Variational Quantum Circuit (VQC) and 
+                Quantum LSTM (QLSTM)—which were evaluated both as standalone models and within four 
+                hybrid configurations: hybrid LSTM–VQC, hybrid LSTM–QLSTM, hybrid PatchTST–VQC, and 
+                hybrid PatchTST–QLSTM. For ETo prediction, LSTM and QLSTM achieved the strongest performance 
+                across all evaluation metrics, while the hybrid variants offered no additional gains in 
+                predictive accuracy. In contrast, LSTM-based hybrid quantum models outperformed all other 
+                configurations for soil water tension prediction, effectively combining LSTM’s temporal 
+                memory with quantum properties of superposition and entanglement. These hybrids delivered 
+                superior predictive accuracy and greater computational efficiency compared to both standalone 
+                quantum and other hybrid models. Sensitivity analysis identified solar radiation as the most 
+                influential variable for ETo prediction and lagged soil water tension values as the dominant 
+                predictors for soil moisture dynamics. Overall, the results highlight the domain-specific 
+                advantages of quantum–classical hybrid modeling and demonstrate the potential of the 
+                QuantumIrrigation package to advance irrigation demand forecasting and support more efficient, 
+                data-driven irrigation decision making.
+              </p>
+            </section>
+
+            <section class="detail-section">
+              <h2>How To Cite</h2>
+              <p>
+                Neupane, A., & Samadi, V. (2025). “QuantumIrrigation”–A New Quantum Computing Python 
+                Package for Irrigation Demand Assessment. Smart Agricultural Technology, 101523.
+              </p>
+            </section>
+          </div>
+
+          <aside class="detail-sidebar">
+            <div class="sidebar-card">
+              <h2>Publication Info</h2>
+              <p><strong>Date:</strong> 2025</p>
+              <p><strong>Status:</strong> Published</p>
+              <p><strong>Journal:</strong> Smart Agricultural Technology</p>
+              <p><strong>Topic:</strong> Precision irrigation and quantum computing</p>
+            </div>
+            <div class="sidebar-card">
+              <h2>Links</h2>
+              <a class="text-link" href="https://doi.org/10.1016/j.atech.2025.101523">DOI</a>
+              <a class="text-link" href="https://www.clemson.edu/cafls/faculty_staff/profiles/adarshn">Adarsha Neupane profile</a>
+            </div>
+          </aside>
+        </article>
+      </main>
+
+      <footer class="site-footer">
+        <p>QuantumIrrigation publication summary.</p>
+        <p>HydroQuantum, Clemson University.</p>
+      </footer>
+    </div>
+  </body>
+</html>

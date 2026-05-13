@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Generic placeholder portrait</title>
+  <rect width="400" height="400" rx="48" fill="#dce2e5" />
+  <circle cx="200" cy="152" r="72" fill="#87939a" />
+  <path d="M92 334c24-82 72-118 108-118s86 36 108 118" fill="#47535a" />
+</svg>
