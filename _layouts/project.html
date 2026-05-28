@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main class="wrap content">
+      <article class="detail-page">
+        {% if page.image %}
+          <img
+            class="detail-image"
+            src="{{ page.image | relative_url }}"
+            alt="{{ page.title }}"
+          >
+        {% endif %}
+
+        <span class="badge">{{ page.status | default: 'Project' }}</span>
+        <h1>{{ page.title }}</h1>
+
+        {% if page.summary %}
+          <p class="lead">{{ page.summary }}</p>
+        {% endif %}
+
+        {% if page.methods %}
+          <p class="meta"><strong>Methods:</strong> {{ page.methods }}</p>
+        {% endif %}
+
+        <div class="pub-actions">
+          {% if page.paper_url %}
+            <a class="btn secondary" href="{{ page.paper_url }}" target="_blank" rel="noreferrer">Paper</a>
+          {% endif %}
+          {% if page.code_url %}
+            <a class="btn secondary" href="{{ page.code_url }}" target="_blank" rel="noreferrer">Code</a>
+          {% endif %}
+        </div>
+
+        <div class="detail-content">
+          {{ content }}
+        </div>
+      </article>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

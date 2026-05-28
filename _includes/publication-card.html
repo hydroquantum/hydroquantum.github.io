@@ -1,0 +1,26 @@
+<!-- <a class="card listing-card" href="{{ include.item.url | relative_url }}"> -->
+<a class="card listing-card" href="{{ '/publications/' | append: include.item.slug | append: '/' | relative_url }}">
+  {% if include.item.image %}
+    <img
+      class="listing-image"
+      src="{{ include.item.image | relative_url }}"
+      alt="{{ include.item.title }}"
+    >
+  {% endif %}
+
+  <span class="badge">{{ include.item.type | default: "Publication" }}</span>
+
+  <h3>{{ include.item.title }}</h3>
+
+  {% if include.item.authors %}
+    <p class="meta">{{ include.item.authors }}</p>
+  {% endif %}
+
+  {% if include.item.venue %}
+    <p class="meta">{{ include.item.venue }}</p>
+  {% endif %}
+
+  {% if include.item.summary %}
+    <p>{{ include.item.summary }}</p>
+  {% endif %}
+</a>

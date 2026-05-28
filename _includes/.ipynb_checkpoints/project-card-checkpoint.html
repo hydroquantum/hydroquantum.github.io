@@ -1,0 +1,17 @@
+<a class="card listing-card" href="{{ include.item.url | relative_url }}">
+  {% if include.item.image %}
+    <img
+      class="listing-image"
+      src="{{ include.item.image | relative_url }}"
+      alt="{{ include.item.title }}"
+    >
+  {% endif %}
+
+  <span class="badge">{{ include.item.status | default: "Project" }}</span>
+
+  <h3>{{ include.item.title }}</h3>
+
+  {% if include.item.summary %}
+    <p>{{ include.item.summary }}</p>
+  {% endif %}
+</a>

@@ -1,0 +1,34 @@
+- name: "Vidya Samadi"
+  role: "Assistant Professor"
+  image: 
+  bio: "Vidya is an Assistant Professor in the Department of Agricultural Sciences at Clemson University, where she leads the Clemson Hydroinformatics Research Group. Vidya's background is in hydroinformatics, AI, and cyber-physical systems for water resource applications."
+  github: "https://github.com/VidyaSamadi"
+  scholar: "https://scholar.google.com/citations?user=VEtu73QAAAAJ&hl=en"
+
+- name: "Mostafa Saberian"
+  role: "Ph.D. candidate"
+  image: 
+  bio: "Mostafa is a Ph.D. candidate in Water Resources at Clemson Glenn Department of Civil Engineering focusing on hydroinformatics and data analytics tool development for water resources simulation. Mostafa joined Hydroinformatics group after completing his MS degree in Water Resources Engineering and Management from Amirkabir University of Technology (Tehran Polytechnic). Mostafa enjoys watching movies, listening to music, hiking, and traveling."
+  github: "https://github.com/"
+  scholar: "https://scholar.google.com/citations?user=z5ef4DYAAAAJ&hl=en"
+
+- name: "Nima Zafarmomen"
+  role: "Ph.D. student"
+  image: 
+  bio: "Nima works on hydroinformatics and data analytics tools for simulating water resources. Nima joined Hydroinformatics group after completing his M.Sc. degree in Civil Engineering- Water Resources from the Iran University of Science and Technology. Nima enjoys playing volleyball, taking pictures, and helping with charity work."
+  github: "https://github.com/"
+  scholar: "https://scholar.google.com/citations?user=BTR8T94AAAAJ&hl=en"
+
+- name: "Adarsha Neupane"
+  role: "Ph.D. student"
+  image: /assets/images/team/adarsha.jpg
+  bio: "    Adarsha studies hydroinformatics and data analytics applications in precision agriculture. Adarsha joined Hydroinformatics group after completing his M.Sc. degree in Civil Engineering-Water Resources from the University of Tokyo, Japan. Adarsha enjoys listening to podcasts and watching sports, especially cricket and football."
+  github: "https://github.com/itsadars7"
+  scholar: "https://scholar.google.com/citations?user=axzNpUkAAAAJ&hl=en"
+
+- name: "Krishna Panthi"
+  role: "M.S. graduate"
+  image: 
+  bio: "Krishna is a M.S. graduate in Computer Science at Clemson University focusing on informatics and data engineering applications for water resources simulation. Krishna enjoys watching movies, listening to music, hiking, and traveling."
+  github: "https://github.com/kp-square"
+  scholar: "https://scholar.google.com/citations?user=BoiMbVYAAAAJ&hl=en"

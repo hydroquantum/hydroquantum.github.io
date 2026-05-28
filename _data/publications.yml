@@ -1,0 +1,23 @@
+- title: HydroQuantum
+  authors: Mostafa Saberian, Nima Zafarmomen, Adarsha Neupane, Krishna Panthi, and Vidya Samadi
+  venue: Environmental Modelling & Software, 2025
+  year: 2025
+  image: /assets/images/publications/HydroQuantum.jpg
+  summary: Quantum-driven Python package for hydrological simulation.
+  slug: hydroquantum
+
+- title: QuantumIrrigation
+  authors: Adarsha Neupane and Vidya Samadi
+  venue: Agricultural Water Management, 2025
+  year: 2025
+  image: /assets/images/publications/QuantumIrrigation.png
+  summary: Quantum computing package for irrigation demand assessment.
+  slug: quantumirrigation
+
+# - title: QML Hydrlogy – Review
+#   authors: Nima Zafarmomen, Mostafa Saberian, Adarsha Neupane, Krishna Panthi, and Vidya Samadi
+#   venue: Computers and Geosciences
+#   year: Under review
+#   # image: /assets/images/publications/QMLReview.png
+#   summary: Review of quantum machine learning methods for hydrologic simulation.
+#   slug: qml-review
