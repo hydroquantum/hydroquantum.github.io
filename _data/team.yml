@@ -4,17 +4,14 @@
   bio: |
    Vidya is an Assistant Professor in the Department of Agricultural Sciences at Clemson University, where she leads the Clemson Hydroinformatics Research Group. Vidya's background is in hydroinformatics, AI, and cyber-physical systems for water resource applications. 
    
-   Vidya supervises the HydroQuantum research line at Clemson University.
-  github: "https://github.com/VidyaSamadi"
+   github: "https://github.com/VidyaSamadi"
   scholar: "https://scholar.google.com/citations?user=VEtu73QAAAAJ&hl=en"
 
 - name: "Mostafa Saberian"
   role: "Ph.D. candidate"
   image: /assets/images/team/mostafa.jpg
   bio: |
-   Mostafa is a Ph.D. candidate in Water Resources at Clemson Glenn Department of Civil Engineering focusing on hydroinformatics and data analytics tool development for water resources simulation. 
-   
-   Mostafa is lead author of HydroQuantum and contributor to the group’s quantum modeling workflow.
+  Mostafa is a Ph.D. candidate in Water Resources at Clemson Glenn Department of Civil Engineering focusing on hydroinformatics and data analytics tool development for water resources simulation. 
   github: "https://github.com/"
   scholar: "https://scholar.google.com/citations?user=z5ef4DYAAAAJ&hl=en"
 
@@ -22,9 +19,7 @@
   role: "Ph.D. student"
   image: /assets/images/team/nimaz.jpeg
   bio: |
-   Nima is a Ph.D. student at Department of Agricultural Sciences. Nima works on hydroinformatics and data analytics tools for simulating water resources.
-   
-   Nima is co-author of HydroQuantum and part of the current quantum hydrologic modeling team.
+  Nima is a Ph.D. student of Hydroinformatics in Agricultural System Mangement. Nima works on AI and data analytics tools for simulating water resources. 
   github: "https://github.com/"
   scholar: "https://scholar.google.com/citations?user=BTR8T94AAAAJ&hl=en"
 
@@ -32,9 +27,7 @@
   role: "Ph.D. student"
   image: /assets/images/team/adarsha.jpeg
   bio: |
-   Adarsha studies hydroinformatics and data analytics applications in precision agriculture, and is pursuing his Ph.D. at Department of Agricultural Sciences.
-   
-   Adarsha is author of QuantumIrrigation and co-author of HydroQuantum.
+   Adarsha studies hydroinformatics and data analytics applications in precision agriculture, and is pursuing his Ph.D. in Agricultural System Management. 
   github: "https://github.com/itsadars7"
   scholar: "https://scholar.google.com/citations?user=axzNpUkAAAAJ&hl=en"
 
@@ -42,8 +35,6 @@
   role: "M.S. graduate"
   image: /assets/images/team/krishna.jpg
   bio: |
-   Krishna is a M.S. graduate in Computer Science at Clemson University focusing on informatics and data engineering applications for water resources simulation. 
-   
-   Krishna is former contributor to HydroQuantum and co-author on the HydroQuantum publication.
+   Krishna is a former M.S. student in Computer Science at Clemson University focusing on informatics and data engineering applications for water resources simulation. 
   github: "https://github.com/kp-square"
   scholar: "https://scholar.google.com/citations?user=BoiMbVYAAAAJ&hl=en"
