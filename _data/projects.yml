@@ -12,7 +12,7 @@
 
 - name: QuantumDNN
   status: Under Construction
-  image: /assets/images/logo/QC.JPEG
+  image: /assets/images/logo/QC.jpg
   summary: DNN+Quantum methods in hydrology.
   slug: 
   
