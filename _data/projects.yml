@@ -10,6 +10,13 @@
   summary: Quantum methods for irrigation demand assessment.
   slug: quantumirrigation
 
+- name: QuantumIrrigation
+  status: Published
+  image: /assets/images/logo/QuantumIrrigation.svg
+  summary: Quantum methods for irrigation demand assessment.
+  slug: quantumirrigation
+  
+
 # - name: QC-GNN-LSTM
 #   status: In progress
 #   # image: /assets/images/projects/QGNN.png
