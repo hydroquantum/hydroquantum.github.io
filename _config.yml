@@ -1,11 +1,15 @@
 title: HydroQuantum
 tagline: Quantum Computing for Hydrology and Water Resources
 description: >-
- HydroQuantum is a research initiative within Clemson University’s HHR Lab focused on quantum computing and quantum machine learning applications in hydrology and water resources.
+ HydroQuantum is a platform advancing the application of quantum computing in hydrology and water resources. 
+ It develops and integrates quantum algorithms and quantum-enhanced machine learning to improve modeling, prediction, 
+ optimization, and uncertainty quantification in complex water systems. All codes, publications, and training materials 
+ are freely available. We welcome collaboration and discussion on quantum-related modeling and simulations in hydrology 
+ and water resources.
   
 email: samadi@clemson.edu
-url: "" # before deploying use url: "https://clemson-hydroinformatics-lab.github.io"
-baseurl: "" # before deploying use baseurl: "/HydroQuantum.github.io", or empty if hosted at the root of a domain
+url: "https://HydroQuantum.github.io"
+baseurl: ""
 lang: en
 markdown: kramdown
 permalink: pretty

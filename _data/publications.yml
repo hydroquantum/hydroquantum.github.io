@@ -21,3 +21,11 @@
 #   # image: /assets/images/publications/QMLReview.png
 #   summary: Review of quantum machine learning methods for hydrologic simulation.
 #   slug: qml-review
+
+- title: QuantumWaterQuality
+  authors: Mostafa Saberian, Nima Zafarmomen, Adarsha Neupane, Krishna Panthi, and Vidya Samadi
+  venue: Environmental Modelling & Software, 2025
+  year: 2025
+  image: /assets/images/publications/Quantum_Water_Quality.jpg
+  summary: Quantum machine learning for continental-scale stream water temperature simulation.
+  slug: quantumwaterquality

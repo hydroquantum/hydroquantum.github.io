@@ -17,13 +17,19 @@ title: Home
       
       <h1>HydroQuantum</h1>
       
-      <p>
-        {{ site.description }}
-      </p>
+    <p>
+      {{ site.description }}
+    </p>
+
+    <p>
+      Please feel free to contact us at
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      if you are interested.
+    </p>
 
       <div class="actions">
-        <a class="btn primary" href="{{ '/publications/' | relative_url }}">View Publications</a>
         <a class="btn secondary" href="{{ '/projects/' | relative_url }}">Explore Projects</a>
+        <a class="btn primary" href="{{ '/publications/' | relative_url }}">View Publications</a>
       </div>
     </section>
 
@@ -50,21 +56,14 @@ title: Home
 </div>
 
 <div class="section">
-  <h2>Featured publications</h2>
-    
-  <div class="grid two">
-    {% for pub in site.data.publications %}
-      {% include publication-card.html item=pub %}
-    {% endfor %}
-  </div>
-</div>
+  <img
+    src="{{ '/assets/images/home/QuantumComputingHydrology.png' | relative_url }}"
+    alt="HydroQuantum research overview"
+    class="home-overview-image"
+  >
 
-<div class="section">
-  <h2>Current projects</h2>
-
-  <div class="grid two">
-    {% for project in site.data.projects %}
-      {% include project-card.html item=project %}
-    {% endfor %}
-  </div>
+  <p class="lead">
+    Advancing quantum computing applications in hydrology, irrigation,
+    water quality, and large-scale environmental modeling.
+  </p>
 </div>

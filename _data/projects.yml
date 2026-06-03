@@ -10,6 +10,12 @@
   summary: Quantum methods for irrigation demand assessment.
   slug: quantumirrigation
 
+- name: QuantumWaterQuality
+  status: Published
+  image: /assets/images/logo/QuantumWaterQuality.png
+  summary: Quantum computing for stream water temperature simulation.
+  slug: quantumwaterquality
+
 - name: QuantumDNN
   status: Under Construction
   image: /assets/images/logo/QC.jpg
@@ -17,6 +23,7 @@
   slug: 
   
 
+  
 # - name: QC-GNN-LSTM
 #   status: In progress
 #   # image: /assets/images/projects/QGNN.png

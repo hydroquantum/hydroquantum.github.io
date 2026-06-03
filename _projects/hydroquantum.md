@@ -11,7 +11,7 @@ layout: project
 
 ## Overview
 
-Quantum Machine Learning (QML) for daily streamflow and stream water temperature simulation across CONUS.
+Quantum Machine Learning (QML) for daily streamflow simulation across CONUS.
 
 <!-- ## What it does
 
