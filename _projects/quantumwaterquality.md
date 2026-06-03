@@ -11,16 +11,7 @@ layout: project
 
 ## Overview
 
-Quantum Water Quality explores the application of quantum computing and quantum machine learning to stream water temperature simulation across the continental United States (CONUS). The project was developed as part of the HydroQuantum framework and investigates whether quantum-enhanced learning architectures can improve the representation of thermal dynamics in river systems.
+QuantumWaterQuality explores the application of quantum computing and quantum machine learning to stream water temperature simulation across the continental United States (CONUS). The project was developed as part of the HydroQuantum framework and investigates whether quantum-enhanced learning architectures can improve the representation of thermal dynamics in river systems.
 
 The study evaluates Variational Quantum Circuits (VQC), Quantum Long Short-Term Memory (QLSTM), and hybrid quantum-classical architectures for daily stream water temperature simulation.
 
-<!-- ## What it does
-
-- Item 1
-- Item 2
-- Item 3 -->
-
-<!-- ## Relevance
-
-Explain why this project matters for hydrology and QC. -->
