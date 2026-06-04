@@ -3,7 +3,7 @@ title: QuantumWaterQuality
 status: Published
 summary: Quantum machine learning for continental-scale stream water temperature simulation.
 methods: VQC, QLSTM, Hybrid Quantum-Classical LSTM
-image: /assets/images/logo/QuantumWaterQuality.png
+image: /assets/images/projects/QuantumWaterQuality.jpg
 paper_url: https://www.sciencedirect.com/science/article/pii/S1364815225004207
 code_url: https://github.com/Clemson-Hydroinformatics-Lab/HydroQuantum-
 layout: project

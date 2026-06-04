@@ -1,24 +1,28 @@
 - name: HydroQuantum
   status: Published
-  image: /assets/images/projects/HydroQuantum.jpg
+  image: /assets/images/logo/HydroQuantum_project.png
+  detail_image: /assets/images/projects/HydroQuantum.jpg
   summary: Quantum computing for hydrological simulation.
   slug: hydroquantum
 
 - name: QuantumIrrigation
   status: Published
   image: /assets/images/logo/QuantumIrrigation.svg
+  detail_image: /assets/images/projects/QuantumIrrigation.jpg
   summary: Quantum methods for irrigation demand assessment.
   slug: quantumirrigation
 
 - name: QuantumWaterQuality
   status: Published
   image: /assets/images/logo/QuantumWaterQuality.png
+  detail_image: /assets/images/projects/QuantumWaterQuality.jpg
   summary: Quantum computing for stream water temperature simulation.
   slug: quantumwaterquality
 
 - name: QuantumDNN
   status: Under Construction
-  image: /assets/images/logo/QC.jpg
+  image: /assets/images/logo/QuantumDNN.png
+  detail_image: 
   summary: DNN+Quantum methods in hydrology.
   slug: 
   

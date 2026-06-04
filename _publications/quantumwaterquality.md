@@ -4,7 +4,7 @@ type: Publication
 authors: Mostafa Saberian, Nima Zafarmomen, Adarsha Neupane, Krishna Panthi, and Vidya Samadi
 venue: Environmental Modelling & Software, 2025
 year: 2025
-image: /assets/images/publications/Quantum_Water_Quality.jpg
+image: /assets/images/publications/HydroQuantum.jpg
 summary: Quantum machine learning for continental-scale stream water temperature simulation.
 paper_url: https://www.sciencedirect.com/science/article/pii/S1364815225004207
 code_url: https://github.com/Clemson-Hydroinformatics-Lab/HydroQuantum-

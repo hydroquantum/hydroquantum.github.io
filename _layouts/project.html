@@ -5,12 +5,10 @@
     {% include header.html %}
     <main class="wrap content">
       <article class="detail-page">
-        {% if page.image %}
-          <img
-            class="detail-image"
-            src="{{ page.image | relative_url }}"
-            alt="{{ page.title }}"
-          >
+        {% if page.detail_image %}
+          <img class="detail-image" src="{{ page.detail_image | relative_url }}" alt="{{ page.title }}">
+        {% elsif page.image %}
+          <img class="detail-image" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
         {% endif %}
 
         <span class="badge">{{ page.status | default: 'Project' }}</span>
