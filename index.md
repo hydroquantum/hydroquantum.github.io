@@ -5,7 +5,7 @@ title: Home
 
 <div>
   <div class="hero-grid">
-    <section class="hero-card">
+    <section class="hero-card intro-card">
     <p>
     <b>HydroQuantum</b> is a platform advancing quantum computing applications in hydrology and water resources. It develops quantum algorithms and quantum-enhanced machine learning for improved modeling, prediction, optimization, and uncertainty quantification in complex water systems. All code, publications, and training materials are freely available, and we welcome collaboration — contact <a href="mailto:samadi@clemson.edu">samadi@clemson.edu</a>  for more information.
     </p>
