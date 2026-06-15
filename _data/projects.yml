@@ -11,6 +11,13 @@
   detail_image: /assets/images/projects/QuantumIrrigation.jpg
   summary: Quantum methods for irrigation demand assessment.
   slug: quantumirrigation
+  
+- name: BRIDGE-QC
+  status: Running (2025 - 2027)
+  detail-image: 
+  image: /assets/images/projects/bridge-qc.jpg
+  summary: A NSF funded cybertraining program for Broadening Research and Innovation for Dynamic Growth in Emerging Quantum Computing
+  slug: 
 
 - name: QuantumWaterQuality
   status: Published
@@ -25,15 +32,6 @@
   detail_image: 
   summary: DNN+Quantum methods in hydrology.
   slug: 
-  
-- name: BRIDGE-QC
-  status: Running (2025 - 2027)
-  detail-image: 
-  image: /assets/images/projects/bridge-qc.jpg
-  summary: A NSF funded cybertraining program for Broadening Research and Innovation for Dynamic Growth in Emerging Quantum Computing
-  slug: 
-
-
 
   
 # - name: QC-GNN-LSTM

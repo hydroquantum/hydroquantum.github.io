@@ -3,54 +3,18 @@ layout: home
 title: Home
 ---
 
-<div class="hero">
+<div>
   <div class="hero-grid">
     <section class="hero-card">
-        
-      <!-- <img
-        src="{{ '/assets/images/logo/Hydroquantum.jpg' | relative_url }}"
-        alt="HydroQuantum Logo"
-        class="hero-logo"
-      > -->
-        
-      <p class="kicker">{{ site.tagline }}</p>
-      
-      <h1>HydroQuantum</h1>
-      
     <p>
-      {{ site.description }}
-    </p>
-
-    <p>
-      Please feel free to contact us at
-      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-      if you are interested.
+    <b>HydroQuantum</b> is a platform advancing quantum computing applications in hydrology and water resources. It develops quantum algorithms and quantum-enhanced machine learning for improved modeling, prediction, optimization, and uncertainty quantification in complex water systems. All code, publications, and training materials are freely available, and we welcome collaboration — contact <a href="mailto:samadi@clemson.edu">samadi@clemson.edu</a>  for more information.
     </p>
 
       <div class="actions">
-        <a class="btn secondary" href="{{ '/projects/' | relative_url }}">Explore Projects</a>
+        <a class="btn secondary" href="{{ '/projects/' | relative_url }}">Explore Research</a>
         <a class="btn primary" href="{{ '/publications/' | relative_url }}">View Publications</a>
       </div>
     </section>
-
-    <!-- <aside class="hero-card hero-side">
-      <div class="mini-stat">
-        <strong>2</strong>
-        <span>published papers</span>
-      </div>
-      <div class="mini-stat">
-        <strong>1</strong>
-        <span>review paper under review</span>
-      </div>
-      <div class="mini-stat">
-        <strong>1</strong>
-        <span>active CONUS-scale QGNN effort</span>
-      </div>
-      <div class="mini-stat">
-        <strong>2</strong>
-        <span>open-source packages</span>
-      </div>
-    </aside> -->
     
   </div>
 </div>
