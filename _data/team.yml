@@ -2,9 +2,18 @@
   role: "Assistant Professor"
   image: /assets/images/team/vidya_samadi.jpeg
   bio: |
-   Vidya is an Assistant Professor in the Department of Agricultural Sciences at Clemson University, where she leads the Clemson Hydroinformatics Research Group. Vidya's background is in hydroinformatics, AI, and cyber-physical systems for water resource applications. 
+   Dr. Vidya Samadi is an Assistant Professor in the Department of Agricultural Sciences at Clemson University, where she leads the Clemson Hydroinformatics Research Group. Vidya's background is in hydroinformatics, AI, and cyber-physical systems for water resource applications. 
   github: "https://github.com/VidyaSamadi"
   scholar: "https://scholar.google.com/citations?user=VEtu73QAAAAJ&hl=en"
+
+- name: "Rong Ge"
+  role: "Professor"
+  image: /assets/images/team/RongGe.jpg
+  bio: |
+   Dr. Rong Ge is Professor in the School of Computing at Clemson University where she leads the Scalable Computing and Analytics Lab. Her research interest includes high performance computing, parallel and distributed systems, and performance and power analysis and modeling.
+  github: "https://github.com/rge-scalab/"
+  scholar: "https://scholar.google.com/citations?user=TWALAzsAAAAJ&hl=en&oi=ao"
+
 
 - name: "Mostafa Saberian"
   role: "Ph.D. candidate"
@@ -37,3 +46,13 @@
    Krishna is a M.S. graduate in Computer Science at Clemson University focusing on informatics and data engineering applications for water resources simulation. 
   github: "https://github.com/kp-square"
   scholar: "https://scholar.google.com/citations?user=BoiMbVYAAAAJ&hl=en"
+
+- name: "Landon Holcomb"
+  role: "Ph.D. student"
+  image: /assets/images/team/landonholcomb.png
+  github: "https://github.com/LandonHolcomb"
+
+- name: "Nathan Jones"
+  role: "Ph.D. student"
+  image: /assets/images/team/nathanjones.jpeg
+  github: "https://github.com/njones93531/"
