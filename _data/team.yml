@@ -50,9 +50,13 @@
 - name: "Landon Holcomb"
   role: "Ph.D. student"
   image: /assets/images/team/landonholcomb.png
+  bio: |
+  Landon is a Ph.D. student in the School of Computing at Clemson University, working on quantum-enhanced algorithms and applications.
   github: "https://github.com/LandonHolcomb"
 
 - name: "Nathan Jones"
   role: "Ph.D. student"
   image: /assets/images/team/nathanjones.jpeg
+  bio: |
+  Nathan is a Ph.D. student in the School of Computing at Clemson University, working on quantum software, hardware design, and applications.   
   github: "https://github.com/njones93531/"
